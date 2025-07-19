@@ -1,5 +1,3 @@
-Hi, I'm Tayyab 👋
-
 ## Hi, I'm Tayyab 👋
 
 🎓 **Software Engineering Graduate**  
