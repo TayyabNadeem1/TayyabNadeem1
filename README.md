@@ -1,13 +1,17 @@
 Hi, I'm Tayyab 👋
 
-🎓 Software Engineering Graduate from the National University of Computer & Emerging Sciences, Lahore, Pakistan
-📱 I build mobile apps for both Android & iOS
-🌐 I also develop modern, responsive websites
-🔗 Connect with me on LinkedIn: linkedin.com/in/tayyab-nadeem
+## Hi, I'm Tayyab 👋
 
+🎓 **Software Engineering Graduate**  
+from the National University of Computer & Emerging Sciences, Lahore, Pakistan  
 
-# 💫 About Me:
-Hi, I'm Tayyab 👋<br>🎓 Software Engineering Graduate from the National University of Computer & Emerging Sciences, Lahore, Pakistan<br>📱 I build mobile apps for both Android & iOS<br>🌐 I also develop modern, responsive websites<br>🔗 Connect with me on LinkedIn: linkedin.com/in/tayyab-nadeem
+📱 I build **mobile apps** for both **Android** & **iOS**  
+
+🌐 I also develop **modern, responsive websites**  
+
+🔗 **Connect with me on LinkedIn**  
+[linkedin.com/in/tayyab-nadeem](https://linkedin.com/in/tayyab-nadeem)
+
 
 
 ## 🌐 Socials:
