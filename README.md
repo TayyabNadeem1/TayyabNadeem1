@@ -1,7 +1,7 @@
 ## Hi, I'm Tayyab 👋
 
-🎓 **Software Engineering Graduate**  
-from the National University of Computer & Emerging Sciences, Lahore, Pakistan  
+🎓 **Software Engineer**  
+Graduated from the National University of Computer & Emerging Sciences, Lahore, Pakistan  
 
 📱 I build **mobile apps** for both **Android** & **iOS**  
 
